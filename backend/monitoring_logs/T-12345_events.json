@@ -1,0 +1,33 @@
+[
+  {
+    "timestamp": "2025-06-04T10:46:41.460858",
+    "type": "screenshot_captured",
+    "details": {
+      "filename": "screenshot_2025-06-04_10-46-41.jpg",
+      "path": "screenshots\\T-12345\\screenshot_2025-06-04_10-46-41.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:46:56.574779",
+    "type": "screenshot_captured",
+    "details": {
+      "filename": "screenshot_2025-06-04_10-46-56.jpg",
+      "path": "screenshots\\T-12345\\screenshot_2025-06-04_10-46-56.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:47:11.718992",
+    "type": "screenshot_captured",
+    "details": {
+      "filename": "screenshot_2025-06-04_10-47-11.jpg",
+      "path": "screenshots\\T-12345\\screenshot_2025-06-04_10-47-11.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:47:19.412057",
+    "type": "screen_capture_stopped",
+    "details": {
+      "timestamp": "2025-06-04T10:47:19.382811"
+    }
+  }
+]

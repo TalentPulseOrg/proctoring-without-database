@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-06-02T14:45:33.866146",
+    "type": "screenshot_captured",
+    "details": {
+      "filename": "screenshot_2025-06-02_14-45-33.jpg",
+      "path": "screenshots\\T112\\screenshot_2025-06-02_14-45-33.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T14:45:49.105732",
+    "type": "screenshot_captured",
+    "details": {
+      "filename": "screenshot_2025-06-02_14-45-48.jpg",
+      "path": "screenshots\\T112\\screenshot_2025-06-02_14-45-48.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T14:46:04.208766",
+    "type": "screenshot_captured",
+    "details": {
+      "filename": "screenshot_2025-06-02_14-46-04.jpg",
+      "path": "screenshots\\T112\\screenshot_2025-06-02_14-46-04.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T14:46:19.292801",
+    "type": "screenshot_captured",
+    "details": {
+      "filename": "screenshot_2025-06-02_14-46-19.jpg",
+      "path": "screenshots\\T112\\screenshot_2025-06-02_14-46-19.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T14:46:34.414661",
+    "type": "screenshot_captured",
+    "details": {
+      "filename": "screenshot_2025-06-02_14-46-34.jpg",
+      "path": "screenshots\\T112\\screenshot_2025-06-02_14-46-34.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T14:46:34.895578",
+    "type": "screen_capture_stopped",
+    "details": {
+      "timestamp": "2025-06-02T14:46:34.870160"
+    }
+  }
+]

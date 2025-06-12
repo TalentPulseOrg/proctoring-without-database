@@ -1,0 +1,6098 @@
+[
+  {
+    "timestamp": "2025-06-02T11:23:26.196634",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:26.189972"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:27.027608",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:27.027608"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:28.012395",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:28.012395"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:29.126257",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "left",
+      "confidence": 1.0,
+      "timestamp": "2025-06-02T16:53:29.125716"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:30.028755",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:30.028755"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:31.406706",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:31.406038"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:32.104419",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "left",
+      "confidence": 1.0,
+      "timestamp": "2025-06-02T16:53:32.104419"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:32.962357",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:32.962357"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:33.978857",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:33.978857"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:34.976741",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:34.976741"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:36.330491",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:36.330491"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:36.959167",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:36.959167"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:37.978598",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:37.978598"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:39.256978",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:39.256978"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:40.093830",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:40.093830"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:41.380694",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:41.380694"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:41.975059",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:41.975059"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:42.982033",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:42.982033"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:44.111401",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:44.111401"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:44.992534",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:44.992534"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:46.478222",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:46.478222"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:47.009686",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:47.009686"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:48.077253",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "left",
+      "confidence": 1.0,
+      "timestamp": "2025-06-02T16:53:48.077253"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:49.077305",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "left",
+      "confidence": 1.0,
+      "timestamp": "2025-06-02T16:53:49.077305"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:50.060873",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:50.059876"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:51.348988",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:51.348988"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:51.979761",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:51.979761"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:53.601943",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:53.601943"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:54.600837",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:54.600837"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:55.572069",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:55.572069"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:56.841101",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:56.841101"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:57.593426",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:57.593426"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:58.670791",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:58.670791"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:59.642318",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:53:59.642318"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:00.598471",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:00.598471"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:01.633730",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:01.633730"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:03.600638",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:03.600638"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:04.582177",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:04.582177"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:05.638022",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:05.638022"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:06.677442",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:06.677442"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:07.855212",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:07.855212"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:08.587583",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:08.587583"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:09.644288",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:09.644288"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:10.618150",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:10.618150"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:11.647729",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:11.647729"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:12.863677",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:12.863677"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:13.588434",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:13.588434"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:14.613454",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:14.613454"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:15.627231",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:15.627231"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:16.668844",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:16.668844"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:17.829677",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:17.829677"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:18.603644",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:18.603644"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:19.617758",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:19.617758"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:20.635836",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:20.635836"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:21.673899",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:21.673732"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:22.839926",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:22.839926"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:23.591771",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:23.591771"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:24.623956",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:24.623956"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:25.646542",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:25.646542"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:26.605707",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T16:54:26.605707"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:48.043724",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:06:48.043724"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:49.064332",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:06:49.064332"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:50.080940",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:06:50.080940"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:51.091889",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:06:51.091889"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:52.182829",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:06:52.182829"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:53.109899",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:06:53.109899"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:54.136227",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "left",
+      "confidence": 1.0,
+      "timestamp": "2025-06-02T17:06:54.136227"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:55.062727",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:06:55.062727"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:56.161950",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:06:56.161950"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:57.128546",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:06:57.127547"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:58.096811",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "left",
+      "confidence": 1.0,
+      "timestamp": "2025-06-02T17:06:58.096811"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:59.059638",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:06:59.059638"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:00.198632",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:00.198632"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:01.115707",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "left",
+      "confidence": 0.5,
+      "timestamp": "2025-06-02T17:07:01.115707"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:02.093092",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:02.093092"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:03.034233",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:03.034233"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:04.052948",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:04.052014"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:05.056550",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:05.056550"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:06.429904",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:06.428907"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:07.197773",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "left",
+      "confidence": 0.5,
+      "timestamp": "2025-06-02T17:07:07.197773"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:08.111774",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "left",
+      "confidence": 1.0,
+      "timestamp": "2025-06-02T17:07:08.111774"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:09.034726",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:09.034726"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:10.042501",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:10.042501"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:11.033936",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:11.032926"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:12.091034",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:12.091034"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:13.034563",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:13.034349"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:14.077550",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:14.077550"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:15.057014",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:15.057014"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:16.083084",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:16.082407"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:17.150114",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:17.149201"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:18.254614",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:18.254614"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:19.056157",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:19.056157"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:20.085311",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:20.085311"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:21.043250",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:21.043250"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:22.890450",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:22.890450"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:24.255803",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:24.255803"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:24.323785",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:24.323785"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:25.026862",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:25.026862"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:26.713495",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:26.713495"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:27.459914",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:27.459914"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:28.070374",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:28.070374"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:29.057709",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-02T17:07:29.057709"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:12.914135",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:12.888353"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:13.592400",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:13.592001"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:14.596066",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:14.596066"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:15.615002",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:15.615002"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:16.654764",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:16.654764"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:18.030893",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:18.030893"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:18.625763",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:18.625763"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:19.602882",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:19.602882"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:20.619568",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:20.619568"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:21.593329",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:21.593329"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:22.969576",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:22.969576"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:23.621004",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:23.621004"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:24.617240",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:24.617240"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:25.612344",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:25.612344"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:26.598309",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "center",
+      "confidence": 0.7,
+      "timestamp": "2025-06-03T17:43:26.598309"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:27.975175",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:27.975175"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:28.646345",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:28.646345"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:29.759589",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:29.759062"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:30.628853",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:30.628853"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:31.580376",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:31.580376"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:33.026505",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:33.026505"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:33.720562",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:33.720562"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:34.601226",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:34.601226"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:35.618126",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:35.618126"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:36.614174",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:36.614174"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:37.969746",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:37.969234"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:38.812791",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:38.812791"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:39.628296",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:39.628296"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:40.677325",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:40.677325"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:41.579430",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:41.579430"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:42.643605",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:42.643605"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:43.583542",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:43.583542"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:44.596131",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:44.596131"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:45.616655",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:45.616655"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:46.643515",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:46.643515"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:47.905004",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:47.904677"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:48.577160",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:48.577160"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:49.576828",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:49.576828"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:50.592035",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:50.592035"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:51.802336",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:51.801794"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:52.949450",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:52.949450"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:53.596780",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:53.596766"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:54.583975",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:54.583975"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:55.573495",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:55.573495"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:56.581019",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:56.581019"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:57.907086",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:57.907086"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:58.586766",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:58.586204"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:13:59.603666",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:43:59.603525"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:00.610867",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:00.610867"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:01.575272",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:01.575272"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:02.922556",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:02.922045"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:03.582466",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:03.582466"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:04.579887",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:04.579887"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:05.610227",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:05.610227"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:06.578682",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:06.578682"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:07.966426",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:07.966426"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:08.652234",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:08.651658"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:09.592066",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:09.592066"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:10.586263",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:10.586190"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:11.596049",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:11.596049"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:12.890152",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:12.890152"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:13.580494",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:13.580494"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:14.587965",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:14.587965"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:15.788155",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:15.788155"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:16.589379",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:16.589379"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:17.979418",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:17.979375"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:18.847927",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:18.847363"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:19.681528",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:19.681528"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:20.586184",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:20.586184"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:21.590397",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:21.590397"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:22.941175",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:22.941175"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:23.576426",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:23.576426"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:24.577130",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:24.577130"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:25.587696",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:25.587696"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:26.575046",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:26.575046"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:27.933035",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:27.932424"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:28.580421",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:28.580247"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:29.576420",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:29.576420"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:30.576796",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:30.576796"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:31.582531",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:31.582531"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:32.945663",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:32.945663"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:33.641225",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:33.641225"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:34.566056",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:34.565360"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:35.635976",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:35.635976"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T12:14:36.636764",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-03T17:44:36.636764"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:43.857655",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:46:43.825201"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:44.601722",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:46:44.601722"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:45.515480",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:46:45.514466"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:46.576516",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "center",
+      "confidence": 0.7,
+      "timestamp": "2025-06-04T10:46:46.576516"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:47.556412",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:46:47.556412"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:48.686366",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:46:48.686366"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:49.852362",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:46:49.852362"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:50.544437",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:46:50.543424"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:51.556357",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:46:51.556357"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:52.590033",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:46:52.589253"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:53.625694",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:46:53.625653"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:54.767218",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:46:54.767218"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:55.566340",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:46:55.566340"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:56.669959",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:46:56.669959"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:57.534334",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:46:57.534334"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:58.732595",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:46:58.732595"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:16:59.895739",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:46:59.895739"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:00.679490",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:00.679490"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:01.522339",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:01.521318"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:02.506281",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:02.506281"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:03.602356",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:03.602356"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:04.519381",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:04.519381"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:05.558178",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:05.558178"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:06.573550",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:06.569461"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:07.530224",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:07.530224"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:08.581077",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:08.581077"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:09.593759",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:09.593759"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:10.574206",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:10.574206"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:11.512980",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:11.512980"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:12.504460",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:12.504460"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:13.578950",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:13.578950"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:14.661238",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:14.660230"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:15.516499",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:15.516499"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:16.513844",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:16.513844"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:17.544367",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:17.543768"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:18.578932",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:18.578932"
+    }
+  },
+  {
+    "timestamp": "2025-06-04T05:17:19.649299",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-04T10:47:19.649299"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:05.927737",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:05.895963"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:07.521671",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:07.521671"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:09.476036",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "left",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:09.476036",
+      "debug_image": "debug_images\\result_1749189189.403474.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:09.663869",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:09.663869",
+      "debug_image": "debug_images\\result_1749189189.601181.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:09.842199",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:09.842199",
+      "debug_image": "debug_images\\result_1749189189.743352.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:11.941262",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:11.941262",
+      "debug_image": "debug_images\\result_1749189191.827902.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:12.196066",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:12.196066"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:13.510096",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:13.510096",
+      "debug_image": "debug_images\\result_1749189193.428977.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:14.469585",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:14.469585"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:15.726771",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:15.725782",
+      "debug_image": "debug_images\\result_1749189195.636649.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:16.404097",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:16.404097",
+      "debug_image": "debug_images\\result_1749189196.276125.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:17.353973",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:17.353973"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:18.635055",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:18.635055"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:18.827276",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:18.827276"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:20.441008",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:20.441008"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:21.896748",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:21.896748"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:22.062253",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:22.062253"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:23.495783",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:23.495783",
+      "debug_image": "debug_images\\result_1749189203.421901.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:23.815390",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:23.815390"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:25.699714",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:25.699714",
+      "debug_image": "debug_images\\result_1749189205.622816.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:26.568826",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:26.568826",
+      "debug_image": "debug_images\\result_1749189206.470364.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:27.704370",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:27.704370"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:28.524023",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:28.524023",
+      "debug_image": "debug_images\\result_1749189208.443827.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:28.760166",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "left",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:28.760166",
+      "debug_image": "debug_images\\result_1749189208.683199.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:30.590982",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:30.590982",
+      "debug_image": "debug_images\\result_1749189210.453668.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:32.552845",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:32.552845",
+      "debug_image": "debug_images\\result_1749189212.446875.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:35.011160",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:35.011160",
+      "debug_image": "debug_images\\result_1749189214.782839.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:35.453223",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:35.453223",
+      "debug_image": "debug_images\\result_1749189215.213516.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:35.973397",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:35.973397",
+      "debug_image": "debug_images\\result_1749189215.718744.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:37.632719",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:37.632719",
+      "debug_image": "debug_images\\result_1749189217.388972.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:41.607043",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:41.607043"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:42.385045",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:42.385045",
+      "debug_image": "debug_images\\result_1749189222.134689.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:43.037150",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:43.036158",
+      "debug_image": "debug_images\\result_1749189222.759864.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:43.593689",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:43.593689",
+      "debug_image": "debug_images\\result_1749189223.279012.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:44.639965",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:44.639965",
+      "debug_image": "debug_images\\result_1749189224.406041.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:46.663715",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:46.663715"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:47.854988",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:47.854988",
+      "debug_image": "debug_images\\result_1749189227.680083.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:49.121187",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:49.121187",
+      "debug_image": "debug_images\\result_1749189228.954243.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:50.216106",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:50.216106",
+      "debug_image": "debug_images\\result_1749189230.038825.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:52.235867",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:52.235867"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:52.571374",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "center",
+      "confidence": 0.7,
+      "timestamp": "2025-06-06T11:23:52.570882",
+      "debug_image": "debug_images\\result_1749189232.358154.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:53.941450",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:53.941450"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:54.639097",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:54.639097",
+      "debug_image": "debug_images\\result_1749189234.515062.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:55.086528",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:55.086528"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:55.701006",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:55.701006",
+      "debug_image": "debug_images\\result_1749189235.426452.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:56.450669",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:56.450669"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:56.654413",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:23:56.654413",
+      "debug_image": "debug_images\\result_1749189236.56505.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:57.440197",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:57.440197"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:57.808171",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:57.808171"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:58.189299",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:58.189299"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:59.288886",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:59.288886"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:53:59.656643",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:23:59.656643"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:54:00.308278",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:24:00.308278"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:54:01.306266",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:24:01.306266"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:54:01.837227",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:24:01.837227",
+      "debug_image": "debug_images\\result_1749189241.754974.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:54:03.017392",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:24:03.017392",
+      "debug_image": "debug_images\\result_1749189242.946172.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:54:03.679823",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "left",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:24:03.679823",
+      "debug_image": "debug_images\\result_1749189243.578742.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:54:04.066267",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:24:04.066267"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T05:54:04.430751",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:24:04.430751"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:18.443407",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:35:18.410044",
+      "debug_image": "debug_images\\result_1749189918.219992.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:18.827607",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:35:18.826608",
+      "debug_image": "debug_images\\result_1749189918.636767.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:19.760218",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:35:19.760218",
+      "debug_image": "debug_images\\result_1749189919.595432.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:20.564827",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:35:20.564827",
+      "debug_image": "debug_images\\result_1749189920.402564.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:22.412520",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:35:22.412520",
+      "debug_image": "debug_images\\result_1749189922.233023.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:23.431837",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:35:23.431837",
+      "debug_image": "debug_images\\result_1749189923.267093.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:24.073331",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:24.073331"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:26.475707",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:26.475707"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:26.726719",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:26.726719"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:27.052624",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:27.052624"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:28.367648",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:28.367648"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:28.825470",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:28.824515"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:29.826679",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:29.826679"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:30.511535",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:30.511535"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:31.392395",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:31.392395"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:33.814038",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:33.814038"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:34.018988",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:34.018988"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:35.422031",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:35.421387"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:35.824827",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:35.824827"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:36.658727",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:36.658727"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:37.924429",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:37.924429"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:39.172062",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:39.172062"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:39.372450",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:39.372450"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:40.556572",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:40.556572"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:41.370544",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:41.370544"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:43.401643",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:43.401643"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:44.648104",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:44.648104"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:45.266323",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:45.266323"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:46.259248",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:46.259248"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:46.990964",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:46.990964"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:48.322373",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:48.322373"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:48.719282",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:48.719282"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:49.787309",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:49.787309"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:52.062911",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:52.062911"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:52.693160",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:52.693160"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:53.507209",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:53.507209"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:54.912528",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:54.912528"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:55.507621",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:55.507621"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:56.219021",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:56.218548"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:56.819293",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:56.818104"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:59.126820",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:59.126820"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:05:59.440010",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:35:59.440010"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:00.029926",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:00.029926"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:01.095500",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:01.095500"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:01.575609",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:01.575609"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:04.009465",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:04.009465"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:04.271861",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:04.271861"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:05.066032",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:05.065028"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:06.031668",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:06.031668"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:07.577900",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:07.577900"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:09.120971",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:09.120971"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:09.426777",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:09.426777"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:10.033159",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:10.033159"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:11.367531",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:11.367531"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:11.679964",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:11.679840"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:14.103722",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:14.103722"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:14.351177",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:14.351177"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:15.043020",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:15.043020"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:16.251213",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T11:36:16.251213"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:16.709797",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:36:16.709797",
+      "debug_image": "debug_images\\result_1749189976.479016.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:06:18.800530",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T11:36:18.800530",
+      "debug_image": "debug_images\\result_1749189978.612188.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:33.185956",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.03333333333333333,
+        "y": -0.35294117647058826
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191673.138022.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:33.352470",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.03278688524590164,
+        "y": 0.0
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191673.343795.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:34.709590",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191674.702301.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:35.140387",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.03389830508474576,
+        "y": 0.25
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191675.134404.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:36.070160",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.06451612903225806,
+        "y": 0.0
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191676.05408.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:38.535701",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.03278688524590164,
+        "y": 0.11764705882352941
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191678.525533.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:38.723670",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.031746031746031744,
+        "y": -0.35294117647058826
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191678.71939.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:39.805030",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.09836065573770492,
+        "y": -0.25
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191679.799597.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:41.175915",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.03571428571428571,
+        "y": 0.14285714285714285
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191681.16656.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:42.464914",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.10526315789473684
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191682.456266.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:45.189259",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.2127659574468085,
+        "y": -0.3076923076923077
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191685.186774.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:45.400500",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.19047619047619047,
+        "y": 0.21052631578947367
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191685.391144.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:46.370428",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.09836065573770492,
+        "y": -0.25
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191686.365443.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:47.516776",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.1111111111111111
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191687.508797.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:49.071220",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.034482758620689655,
+        "y": 0.0
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191689.066231.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:49.820585",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.03389830508474576,
+        "y": -0.11764705882352941
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191689.806198.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:50.606558",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.12903225806451613,
+        "y": -0.1111111111111111
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191690.601043.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:51.305247",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.06451612903225806,
+        "y": -0.1111111111111111
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191691.290361.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:52.503178",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.03333333333333333,
+        "y": -0.1111111111111111
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191692.490374.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:54.076280",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.09836065573770492,
+        "y": -0.1111111111111111
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191694.071298.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:54.191105",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.06557377049180328,
+        "y": -0.2222222222222222
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191694.186118.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:55.535009",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.09836065573770492,
+        "y": -0.1
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191695.530024.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:56.204060",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.09836065573770492,
+        "y": -0.1111111111111111
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191696.189256.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:57.518096",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.1111111111111111
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191697.514106.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:58.138902",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.034482758620689655,
+        "y": -0.125
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191698.127611.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:34:59.041497",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.03278688524590164,
+        "y": -0.11764705882352941
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191699.032389.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:35:00.449182",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.03389830508474576,
+        "y": -0.11764705882352941
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191700.438133.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:35:01.095868",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.11764705882352941
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191701.090237.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:38:54.955063",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.03333333333333333,
+        "y": -0.2222222222222222
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191934.951849.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:38:55.139175",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.21052631578947367
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191935.131207.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:38:56.482536",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.23529411764705882
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191936.473186.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:38:57.231210",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.17391304347826086
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191937.218413.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:38:57.932681",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.03278688524590164,
+        "y": -0.21052631578947367
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191937.924092.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:38:59.175328",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191939.17181.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:00.105989",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.13793103448275862,
+        "y": -0.125
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191940.101998.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:05.064649",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.03076923076923077,
+        "y": 0.0
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191945.056129.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:09.218092",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.3018867924528302,
+        "y": -0.18181818181818182
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191949.211138.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:09.938027",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.03125,
+        "y": 0.16666666666666666
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191949.923217.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:10.948141",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.14035087719298245,
+        "y": -0.375
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191950.939972.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:12.002885",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "up",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.5333333333333333
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191951.998869.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:13.697925",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.12903225806451613,
+        "y": -0.2222222222222222
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191953.693857.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:14.702786",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.03278688524590164,
+        "y": -0.23529411764705882
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191954.699795.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:15.683984",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.03225806451612903,
+        "y": -0.23529411764705882
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191955.677837.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:17.754061",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0967741935483871,
+        "y": 0.0
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191957.734923.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:17.983889",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": 0.3076923076923077
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191957.979944.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:18.138031",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.1111111111111111
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191958.133211.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:20.080880",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.03333333333333333,
+        "y": -0.14285714285714285
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191960.071638.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:20.230958",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.125
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191960.222392.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:21.289112",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.03389830508474576,
+        "y": -0.15384615384615385
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191961.285146.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:21.991943",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": 0.25
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191961.983463.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:23.240128",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.034482758620689655,
+        "y": -0.125
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191963.234929.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:24.312882",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191964.303391.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:25.151273",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.125
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191965.138154.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:25.965108",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.03389830508474576,
+        "y": -0.14285714285714285
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191965.957131.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:27.533154",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.03278688524590164,
+        "y": 0.3076923076923077
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191967.52996.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:28.230154",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.09836065573770492,
+        "y": 0.125
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191968.217324.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:29.177375",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "down",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.03278688524590164,
+        "y": 0.4
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191969.169275.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:30.032678",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.06451612903225806,
+        "y": 0.125
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191970.024682.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:32.685679",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": 0.2857142857142857
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191972.679359.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:32.832414",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191972.822343.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:33.060887",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.14035087719298245,
+        "y": -0.13333333333333333
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191973.05205.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:37.833931",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.03333333333333333,
+        "y": -0.125
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191977.828941.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:38.014855",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.25
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191978.00988.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:39.244914",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.23529411764705882
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191979.238006.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:39:39.922041",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.06896551724137931,
+        "y": -0.13333333333333333
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749191979.916022.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:11.404985",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.10989010989010989,
+        "y": -0.13793103448275862
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192071.400203.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:12.152604",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "up",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.02531645569620253,
+        "y": -0.42105263157894735
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192072.139669.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:13.951111",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "up",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.14492753623188406,
+        "y": -0.6
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192073.940201.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:14.754887",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "up",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.0967741935483871,
+        "y": -0.42105263157894735
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192074.741761.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:16.147379",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "left",
+      "confidence": 0.7,
+      "gaze_values": {
+        "x": -8.682500000000001,
+        "y": -1.4
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:16.657367",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.030303030303030304,
+        "y": -0.3
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192076.652381.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:18.173525",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.06060606060606061,
+        "y": -0.26666666666666666
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192078.168685.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:19.247581",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192079.235081.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:21.089292",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "left",
+      "confidence": 0.7,
+      "gaze_values": {
+        "x": 0.13694581280788176,
+        "y": 4.272727272727273
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:24.097221",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.02702702702702703,
+        "y": 0.11764705882352941
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192084.088201.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:25.655502",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.02857142857142857,
+        "y": -0.3157894736842105
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192085.651332.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:27.045065",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.05194805194805195,
+        "y": -0.1
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192087.036894.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:27.228362",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.1038961038961039,
+        "y": -0.19047619047619047
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192087.221132.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:28.404914",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0821917808219178,
+        "y": -0.21052631578947367
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192088.399862.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:29.999091",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.18181818181818182
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192089.99011.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:30.656844",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.07894736842105263,
+        "y": -0.2
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192090.648545.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:31.390407",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.05333333333333334,
+        "y": -0.17391304347826086
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192091.382793.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:32.911062",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.0547945205479452,
+        "y": -0.09090909090909091
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192092.902538.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:33.422841",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.13513513513513514,
+        "y": -0.38095238095238093
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192093.418851.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:34.412141",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.02666666666666667,
+        "y": -0.17391304347826086
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192094.404157.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:35.887668",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.18181818181818182
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192095.882732.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:37.194935",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.08333333333333333,
+        "y": -0.19047619047619047
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192097.188094.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:37.331055",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.09523809523809523
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192097.328061.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:38.411680",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.07692307692307693
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192098.403755.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:39.927343",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.02702702702702703,
+        "y": -0.1
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192099.920496.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:40.433950",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.027777777777777776,
+        "y": -0.2857142857142857
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192100.428963.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:41.921931",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.05405405405405406,
+        "y": -0.2608695652173913
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192101.916944.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:42.617807",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.0547945205479452,
+        "y": -0.2608695652173913
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192102.612819.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:43.294782",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.08450704225352113,
+        "y": -0.10526315789473684
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192103.286228.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:44.154936",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.02702702702702703,
+        "y": -0.2
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192104.149951.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:45.403759",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.2608695652173913
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192105.398801.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:46.444021",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.0547945205479452,
+        "y": -0.10526315789473684
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192106.434255.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:47.531782",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.10526315789473684
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192107.527959.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:48.201005",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.02857142857142857,
+        "y": -0.2857142857142857
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192108.190425.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:50.559898",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.0273972602739726,
+        "y": -0.2857142857142857
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192110.550255.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:51.222417",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.14084507042253522,
+        "y": -0.3
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192111.212012.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:51.579310",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.08450704225352113,
+        "y": -0.2
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192111.574314.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:52.518054",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.05714285714285714,
+        "y": -0.2
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192112.5026.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:41:53.179326",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.056338028169014086,
+        "y": -0.09090909090909091
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192113.171971.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:05.417533",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.10101010101010101,
+        "y": -0.25806451612903225
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192125.413544.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:06.402174",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.3010752688172043,
+        "y": -0.07142857142857142
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192126.396852.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:07.406081",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "up",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.02531645569620253,
+        "y": -0.4
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192127.398775.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:08.409015",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.18867924528301888,
+        "y": -0.13333333333333333
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192128.400387.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:09.459776",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.07272727272727272,
+        "y": -0.23529411764705882
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192129.450864.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:10.672892",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.1111111111111111,
+        "y": 0.10526315789473684
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192130.664183.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:10.812794",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.07272727272727272,
+        "y": -0.1
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192130.808805.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:14.997142",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.07017543859649122,
+        "y": 0.0
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192134.990696.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:16.495660",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "right",
+      "confidence": 0.7,
+      "gaze_values": {
+        "x": 4.404285714285714,
+        "y": 4.142857142857142
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:16.660876",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.3157894736842105,
+        "y": -0.13333333333333333
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192136.656885.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:18.381335",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.15384615384615385,
+        "y": -0.18181818181818182
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192138.375998.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:19.358704",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.208955223880597,
+        "y": -0.2
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192139.350727.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:20.190601",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.05555555555555555,
+        "y": -0.2727272727272727
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192140.181625.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:21.393834",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0821917808219178,
+        "y": -0.08695652173913043
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192141.387849.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:22.407878",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.08450704225352113,
+        "y": -0.18181818181818182
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192142.399744.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:23.413975",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.05555555555555555,
+        "y": -0.38095238095238093
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192143.408987.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:24.459930",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.21052631578947367
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192144.455516.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:25.606868",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.11267605633802817,
+        "y": -0.1
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192145.597589.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:25.799772",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.05405405405405406,
+        "y": -0.2608695652173913
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192145.793788.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:27.371285",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.05714285714285714,
+        "y": -0.09523809523809523
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192147.362829.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:28.393972",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.05555555555555555,
+        "y": -0.34782608695652173
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192148.390056.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:30.777033",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.08333333333333333,
+        "y": -0.2608695652173913
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192150.771088.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:30.904381",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.1111111111111111,
+        "y": -0.24
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192150.896374.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:31.069940",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.08333333333333333,
+        "y": -0.2727272727272727
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192151.061951.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:32.444754",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.1388888888888889,
+        "y": 0.0
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192152.440769.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:34.430399",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.19047619047619047
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192154.426015.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:35.883027",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.11594202898550725,
+        "y": -0.2857142857142857
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192155.879039.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:36.132928",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "up",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.4
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192156.12705.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:37.444649",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "up",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.4
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192157.432682.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:38.482037",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.1111111111111111,
+        "y": -0.2857142857142857
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192158.476071.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:38.706125",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.11267605633802817,
+        "y": -0.3157894736842105
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192158.70313.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:39.982392",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.028169014084507043,
+        "y": -0.09523809523809523
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192159.979035.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:40.671279",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": -0.02857142857142857,
+        "y": 0.0
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192160.667029.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:41.674772",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.028985507246376812,
+        "y": -0.1
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192161.671646.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:43.419338",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.11764705882352941,
+        "y": -0.09090909090909091
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192163.409792.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:44.529327",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.08695652173913043,
+        "y": -0.19047619047619047
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192164.515771.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:46.082360",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.08450704225352113,
+        "y": -0.09523809523809523
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192166.079723.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:46.225663",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.0,
+        "y": -0.1
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192166.222124.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T06:42:46.731317",
+    "event_type": "gaze_analysis",
+    "details": {
+      "direction": "center",
+      "confidence": 0.9,
+      "gaze_values": {
+        "x": 0.029411764705882353,
+        "y": -0.1
+      },
+      "debug_image": "debug_images\\gaze_analysis_1749192166.728639.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:41.247879",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:37:41.214511",
+      "debug_image": "debug_images\\result_1749193661.093567.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:41.495309",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:37:41.495309",
+      "debug_image": "debug_images\\result_1749193661.387603.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:44.153556",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:37:44.153556",
+      "debug_image": "debug_images\\result_1749193664.067971.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:44.389299",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:37:44.389299",
+      "debug_image": "debug_images\\result_1749193664.284349.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:44.746697",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:37:44.746697",
+      "debug_image": "debug_images\\result_1749193664.508902.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:46.515026",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:37:46.515026",
+      "debug_image": "debug_images\\result_1749193666.419545.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:46.687864",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:37:46.687864",
+      "debug_image": "debug_images\\result_1749193666.592113.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:47.224155",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:37:47.223168"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:49.160961",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:37:49.160961"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:49.364466",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:37:49.364466"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:51.524356",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:37:51.524356"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:51.747320",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:37:51.747320"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:52.280388",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:37:52.280388"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:53.197548",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:37:53.197548"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:55.170711",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:37:55.169674"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:55.858171",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:37:55.858171"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:57.151648",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:37:57.151648"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:57.370386",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:37:57.370386"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:59.164284",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:37:59.164284"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:07:59.392435",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:37:59.392435"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:01.512108",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:01.512108"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:01.710447",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:01.710447"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:03.313079",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:03.313079",
+      "debug_image": "debug_images\\result_1749193683.134165.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:03.544738",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:03.544738",
+      "debug_image": "debug_images\\result_1749193683.453408.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:04.530099",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:04.530099",
+      "debug_image": "debug_images\\result_1749193684.411333.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:05.828264",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:05.827266",
+      "debug_image": "debug_images\\result_1749193685.727473.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:06.597999",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "down",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:06.597999",
+      "debug_image": "debug_images\\result_1749193686.463666.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:07.329330",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:07.329330"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:08.390606",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:08.390606"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:10.267175",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:10.267175"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:11.773000",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:11.773000",
+      "debug_image": "debug_images\\result_1749193691.492432.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:13.003204",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:13.003204",
+      "debug_image": "debug_images\\result_1749193692.646225.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:13.722012",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:13.722012"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:14.588787",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:14.588787",
+      "debug_image": "debug_images\\result_1749193694.278141.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:15.538886",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:15.538886"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:17.530636",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:17.530636"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:18.614279",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:18.614279"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:19.732284",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:19.732072"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:20.386378",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:20.386378"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:22.512959",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:22.512959"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:23.674062",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:23.673061"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:24.288287",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:24.287290"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:25.295212",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:25.295212"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:25.886486",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:25.885492",
+      "debug_image": "debug_images\\result_1749193705.619034.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:26.509438",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:26.509438"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:28.481345",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:28.480293",
+      "debug_image": "debug_images\\result_1749193708.251665.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:29.237311",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:29.237311",
+      "debug_image": "debug_images\\result_1749193708.958683.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:30.626594",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:30.626594"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:31.994527",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:31.994527"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:32.433549",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:32.433549"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:32.681491",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:32.681491",
+      "debug_image": "debug_images\\result_1749193712.531546.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:32.936553",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "right",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:32.936553",
+      "debug_image": "debug_images\\result_1749193712.796131.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:33.294662",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:33.294662",
+      "debug_image": "debug_images\\result_1749193713.143316.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:33.928986",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:33.928986"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:34.713631",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:34.713631"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:36.471981",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:36.471981"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:36.639486",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:36.639486"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:38.169257",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-06T12:38:38.169257"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:38.409399",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:38.409399",
+      "debug_image": "debug_images\\result_1749193718.312311.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:40.348597",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:40.348597",
+      "debug_image": "debug_images\\result_1749193720.239233.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-06T07:08:40.769450",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "up",
+      "confidence": 0.8,
+      "timestamp": "2025-06-06T12:38:40.769450",
+      "debug_image": "debug_images\\result_1749193720.706605.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:21:59.410609",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:51:59.371552"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:00.095736",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:00.094730"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:00.673729",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:00.673729"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:01.837379",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:01.837379"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:02.744814",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:02.744814"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:03.916516",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:03.915517"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:05.332291",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:05.332291"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:05.688606",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:05.688606"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:06.269218",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:06.268229"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:08.307704",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:08.307704"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:09.260102",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:09.260102"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:10.042445",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:10.042445"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:10.899484",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:10.899484"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:11.765739",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:11.765739"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:12.590272",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:12.590272"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:13.765594",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:13.765594"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:14.568293",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:14.568293"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:15.633641",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:15.633641"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:16.583920",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:16.583920"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:17.391517",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:17.391517"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:18.826932",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:18.826932"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:19.762249",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:19.762249"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:20.618912",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:20.618323"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:21.574790",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:21.574790"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:22.572676",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:22.572676"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:24.004890",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:24.004890"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:24.691232",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:24.691232"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:25.948554",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:25.948554"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:26.961341",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:26.961341"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:27.811869",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:27.811869"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:28.949447",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:28.949447"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:29.740138",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:29.739258"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:30.544074",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:30.544074"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:31.479550",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:31.479550"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:32.536299",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:32.535277"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:33.598593",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:33.598593"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:34.410573",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:34.410573"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:35.405275",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:35.405275"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:36.398073",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:36.398073"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:37.403768",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:37.403768"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:38.411759",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:38.411759"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:39.502838",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:39.502838"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:40.407911",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:40.407911"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:41.418723",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:41.418723"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:42.420552",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:42.420552"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:44.400930",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:44.400930"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:45.420600",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:45.420600"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:46.400526",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:46.400526"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:47.468659",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:47.468659"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:48.480899",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:48.480899"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:49.439596",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:49.439596"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:50.410587",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:50.410587"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:51.440531",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:51.440531"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:52.430498",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:52.430498"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:53.429479",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:53.429479"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:54.439972",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:54.439972"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:55.460578",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:55.460578"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:56.498516",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:56.498516"
+    }
+  },
+  {
+    "timestamp": "2025-06-07T07:22:57.439571",
+    "event_type": "gaze_analysis",
+    "details": {
+      "gaze_direction": "no_face",
+      "confidence": 0.0,
+      "timestamp": "2025-06-07T12:52:57.439571"
+    }
+  }
+]

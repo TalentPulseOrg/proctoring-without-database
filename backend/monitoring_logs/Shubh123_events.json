@@ -1,0 +1,57 @@
+[
+  {
+    "timestamp": "2025-06-03T17:43:10.616025",
+    "type": "screenshot_captured",
+    "details": {
+      "filename": "screenshot_2025-06-03_17-43-10.jpg",
+      "path": "screenshots\\Shubh123\\screenshot_2025-06-03_17-43-10.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T17:43:25.745928",
+    "type": "screenshot_captured",
+    "details": {
+      "filename": "screenshot_2025-06-03_17-43-25.jpg",
+      "path": "screenshots\\Shubh123\\screenshot_2025-06-03_17-43-25.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T17:43:40.878336",
+    "type": "screenshot_captured",
+    "details": {
+      "filename": "screenshot_2025-06-03_17-43-40.jpg",
+      "path": "screenshots\\Shubh123\\screenshot_2025-06-03_17-43-40.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T17:43:55.976149",
+    "type": "screenshot_captured",
+    "details": {
+      "filename": "screenshot_2025-06-03_17-43-55.jpg",
+      "path": "screenshots\\Shubh123\\screenshot_2025-06-03_17-43-55.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T17:44:11.108775",
+    "type": "screenshot_captured",
+    "details": {
+      "filename": "screenshot_2025-06-03_17-44-10.jpg",
+      "path": "screenshots\\Shubh123\\screenshot_2025-06-03_17-44-10.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T17:44:26.226778",
+    "type": "screenshot_captured",
+    "details": {
+      "filename": "screenshot_2025-06-03_17-44-26.jpg",
+      "path": "screenshots\\Shubh123\\screenshot_2025-06-03_17-44-26.jpg"
+    }
+  },
+  {
+    "timestamp": "2025-06-03T17:44:36.710886",
+    "type": "screen_capture_stopped",
+    "details": {
+      "timestamp": "2025-06-03T17:44:36.684007"
+    }
+  }
+]
